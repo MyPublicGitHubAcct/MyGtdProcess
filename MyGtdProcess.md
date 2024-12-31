@@ -1,11 +1,16 @@
 # GTD Process
 
-This method is used to keep track of tasks that are not routine and frequent e.g., an email sent every Monday. The goal of this method is to keep track of (1) what needs to be done and when, and (2) what has been completed.
+This method is used to keep track of tasks that are not routine and frequent e.g., an email sent every Monday. The intention of this method is to keep track of (1) what needs to be done and when, and (2) what has been completed.
 
 Two .csv documents are used to keep everything in order:
 
 - __TODO-List__, which includes all unfinished, known tasks.  
 - __DONE-List__, which includes all completed tasks.
+
+Two paper documents are used each day:
+
+- The current week's TODO list.
+- The current day's notes, which includes the day's TODO items at the top.
 
 ## New item / idea
 
@@ -36,7 +41,7 @@ Consider timing for each when logging in __TODO-List__, but only make _Reminders
 
 ## TODO-List
 
-This is the central document used to make this process work. Items included in it _must be_ written as a required step, granularly enough that no single task will take more than a week to complete.
+This is the central document used to make this process work. Items included in it _must be_ written as a required step, granularly enough that no single task will take more than a week to complete. An item could be to determine what steps are needed to accomplish some goal.
 
 Items are ordered by priority. This can be a text document or a .csv file opened in a spreadsheet program (preferred). TODO items on the __TODO-List__ should be moved to a list of completed items (__DONE-List__) periodically.
 
@@ -55,6 +60,7 @@ The format used to assemble the __TODO-List__ is based on [todo.txt](https://git
 	- _D_= don't know.  
 - __Status__:  
 	- _N_= not started.  
+	- _I_ = in process __this week__.  
 	- _C_= complete.  
 - __Scheduled__:  
 	- _Y_= reminder/task initiated.  
@@ -90,13 +96,19 @@ N, Y, L, N, N, 2024-09-27, 2024-09-26, Save a pelican., Call Steve to understand
 
 ### Daily - Beginning
 
-- Review items noted the day or week before and ensure the week's (paper) TODO list includes all of them ordered according to priority.  
+- Review items noted the day or week before and ensure the week's (paper) TODO list includes all of them ordered according to priority. It should be clear what today's top thee items are.  
 
 ### Daily - End
 
 - Review new items and existing weekly items, make updates where needed.  
-- Update any status items.  
+- Start the next day's notes, including the items needing to be done that day.  
+- Track any wins (e.g., goals achieved, things learned) as well a any things that can be done better (potential projects).  
 
+## Not done...yet
 
+Yes, these should be in a __TODO-List__.
+
+- Method for tracking goals (e.g., quarterly, yearly, 1/2 decade) by category, including the top three for each period.  
+- Method for handling recurring tasks that are far apart e.g., quarterly reviews of goal status.
 
 
