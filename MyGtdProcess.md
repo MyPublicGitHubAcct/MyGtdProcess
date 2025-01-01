@@ -33,17 +33,21 @@ This process is started each time a new request, idea, or need is identified and
 
 ## Projects
 
-These are any work that will take more than one action. The simplest will require only an entry in the __TODO-List__.  
+These are any work or goal that will take more than one action. The simplest will require only an entry in the __TODO-List__.  
 
 Try to identify all of the needed TODO items & any dependencies and put them in chronological order.  
 
 Consider timing for each when logging in __TODO-List__, but only make _Reminders_ / _Tasks_ for the next item needing to be completed.  
+
+Despite weekly updates to all projects being part of the process, things like goals related to a 5-year plan can fall behind if they are not intentionally focused on. In these cases, setting aside some time each month or week by including a __TODO-List__ item for updating a status report would help.  
 
 ## TODO-List
 
 This is the central document used to make this process work. Items included in it _must be_ written as a required step, granularly enough that no single task will take more than a week to complete. An item could be to determine what steps are needed to accomplish some goal.
 
 Items are ordered by priority. This can be a text document or a .csv file opened in a spreadsheet program (preferred). TODO items on the __TODO-List__ should be moved to a list of completed items (__DONE-List__) periodically.
+
+_Routine items_ like annual health checkups should be included in the __TODO-List__ with a note stating that once complete, another item should be added to the list for the next period.  
 
 The format used to assemble the __TODO-List__ is based on [todo.txt](https://github.com/todotxt/todo.txt), but instead is a comma-separated list where all the following fields are required:
 
@@ -65,6 +69,7 @@ The format used to assemble the __TODO-List__ is based on [todo.txt](https://git
 - __Scheduled__:  
 	- _Y_= reminder/task initiated.  
 	- _N_= not initiated.  
+- __Start date__: Estimated start date for the task in YYYY-MM-DD format.  
 - __Due date__: Required finish date for the task in YYYY-MM-DD format.  
 - __Identified date__: Date the item was added to the TODO List in YYYY-MM-DD format.  
 - __Context__: Describes the project or category.  
@@ -73,9 +78,9 @@ The format used to assemble the __TODO-List__ is based on [todo.txt](https://git
 
 __Examples__:
 
-Y, N, M, N, Y, 2024-01-15, 2023-09-23, taxes, Send quarterly tax., Not done  
-Y, Y, H, C, Y, 2024-09-27, 2024-09-26, email, Send mom an email., 2024-09-26  
-N, Y, L, N, N, 2024-09-27, 2024-09-26, Save a pelican., Call Steve to understand when they need the boat., Not done  
+Y, N, M, N, Y, 2024-01-01, 2024-01-15, 2023-09-23, taxes, Send quarterly tax., Not done  
+Y, Y, H, C, Y, 2024-09-26, 2024-09-27, 2024-09-26, email, Send mom an email., 2024-09-26  
+N, Y, L, N, N, 2024-09-26, 2024-09-27, 2024-09-26, Save a pelican., Call Steve to understand when they need the boat., Not done  
 
 ## Weekly
 
@@ -103,12 +108,3 @@ N, Y, L, N, N, 2024-09-27, 2024-09-26, Save a pelican., Call Steve to understand
 - Review new items and existing weekly items, make updates where needed.  
 - Start the next day's notes, including the items needing to be done that day.  
 - Track any wins (e.g., goals achieved, things learned) as well a any things that can be done better (potential projects).  
-
-## Not done...yet
-
-Yes, these should be in a __TODO-List__.
-
-- Method for tracking goals (e.g., quarterly, yearly, 1/2 decade) by category, including the top three for each period.  
-- Method for handling recurring tasks that are far apart e.g., quarterly reviews of goal status.
-
-
