@@ -2,7 +2,7 @@
 
 This method is used to keep track of tasks that are not routine and frequent e.g., an email sent every Monday. The intention of this method is to keep track of (1) what needs to be done and when, and (2) what has been completed.
 
-Two .csv documents are used to keep everything in order:
+Two spreadsheet (Numbers or Excel) documents are used to keep everything in order. These should be kept as simple as possible so they can be exported as .csv files for portability.
 
 - __TODO-List__, which includes all unfinished, known tasks.  
 - __DONE-List__, which includes all completed tasks.
@@ -86,7 +86,7 @@ N, Y, L, N, N, 2024-09-26, 2024-09-27, 2024-09-26, Save a pelican., Call Steve t
 
 ### Weekly - Beginning
 
-- Organize goals for the week.  
+- Organize goals for the week by day.  
 
 ### Weekly - End
 
