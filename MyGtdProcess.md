@@ -1,6 +1,6 @@
-# GTD Process
+# Keeping Track of Things
 
-This method is used to keep track of tasks that are not routine and frequent e.g., an email sent every Monday. The intention of this method is to keep track of (1) what needs to be done and when, and (2) what has been completed.
+This method is based on the ideas expressed in [_Getting Things Done_](https://en.wikipedia.org/wiki/Getting_Things_Done) by David Allen, and is used to keep track of tasks that are not routine and frequent e.g., an email sent every Monday. The intention of the steps below is to keep track of (1) what needs to be done and when, and (2) what has been completed.
 
 Two spreadsheet (Numbers or Excel) documents are used to keep everything in order. In practice, these will probably be tabs in a single spreadsheet. These should be kept as simple as possible so they can be exported as .csv files for portability.
 
