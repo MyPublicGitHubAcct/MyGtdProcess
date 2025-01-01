@@ -79,16 +79,10 @@ The format used to assemble the __TODO-List__ is based on [todo.txt](https://git
 __Examples__:
 
 |Current|Next step|Priority|Status|Scheduled|Start date|Due date|Id date|Context|TODO item|Completed date|
-|-------|---------|--------|------|---------|----------|--------|-------|-------|---------|--------------|
+|:------|:--------|:-------|:-----|:--------|:---------|:-------|:------|:------|:--------|:-------------|
 |Yes|No|Medium|Not started|Yes|2024-01-01|2024-01-15|2023-09-23|taxes|Send quarterly tax.|Not done|
 |Yes|Yes|High|Complete|Yes|2024-09-26|2024-09-27|2024-09-26|email|Send mom an email.|2024-09-26|
 |No|Yes|Low|Not started|No|2024-09-26|2024-09-27|2024-09-26|Save a pelican.|Call Steve to understand when they need the boat.|Not done|
-
-Yes, No, Medium, Not started, Yes, 2024-01-01, 2024-01-15, 2023-09-23, taxes, Send quarterly tax., Not done  
-
-Yes, Yes, High, Complete, Yes, 2024-09-26, 2024-09-27, 2024-09-26, email, Send mom an email., 2024-09-26  
-
-No, Yes, Low, Not started, No, 2024-09-26, 2024-09-27, 2024-09-26, Save a pelican., Call Steve to understand when they need the boat., Not done  
 
 ## Weekly
 
